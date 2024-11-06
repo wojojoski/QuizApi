@@ -1,0 +1,41 @@
+@WebAPI_HostAddress = https://localhost:7123
+
+GET {{WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+PATCH https://localhost:7123/api/v1/admin/quizzes/3
+Content-Type: application/json-patch+json
+
+[
+  {
+    "op": "add",
+    "path": "/items/-",
+    "value": {
+      "question": "2+1+1+5",
+      "incorrectAnswers": ["2","7","3"],
+      "correctAnswer": "9"
+    }
+  }
+]
+
+###
+
+POST https://localhost:7123/api/authentication/login
+Content-Type: application/json
+
+{
+  "loginName": "karol",
+  "password" : "1234ABcd$"
+}
+
+###
+
+POST  https://localhost:7123/api/v1/user/quizzes/3/items/1/answers
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1lIjoia2Fyb2wiLCJnZW5kZXIiOiJtYWxlIiwiZW1haWwiOiJrYXJvbEB3c2VpLmVkdS5wbCIsImV4cCI6MTcyNzM3NTMxMCwianRpIjoiZWQzY2JmM2QtNzQwOC00MDNhLWFkOWUtNzJhZGZiOWU4ZmU4IiwiYXVkIjoid3NlaSIsImlzcyI6IndzZWkifQ.ql9UAQ79k8hJ5tskA98qD-gmu6-z5E3zcJ2OLT9-0pw
+
+{
+  "userId": 1,
+  "answer": "6"
+}

@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VSProjects\\QuizApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91414CC4-60A3-4EE8-8833-3548C1FA5E1C}|UnitTest\\UnitTest.csproj|d:\\vsprojects\\quizapp\\unittest\\quizapitest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91414CC4-60A3-4EE8-8833-3548C1FA5E1C}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\quizapitest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|d:\\vsprojects\\quizapp\\infrastructure\\mongodb\\entities\\quizuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\mongodb\\entities\\quizuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|d:\\vsprojects\\quizapp\\infrastructure\\mongodb\\entities\\quizitemmongoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\mongodb\\entities\\quizitemmongoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A3AA0B-E298-485F-8631-4A55B545101F}|WebAPI\\WebAPI.csproj|d:\\vsprojects\\quizapp\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74A3AA0B-E298-485F-8631-4A55B545101F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A3AA0B-E298-485F-8631-4A55B545101F}|WebAPI\\WebAPI.csproj|d:\\vsprojects\\quizapp\\webapi\\controllers\\apiquizmongodbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A3AA0B-E298-485F-8631-4A55B545101F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\apiquizmongodbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|d:\\vsprojects\\quizapp\\infrastructure\\mongodb\\entities\\quizmongoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\mongodb\\entities\\quizmongoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F971AE2-DF13-4347-9115-F271EF2FCB12}|ApplicationCore\\ApplicationCore.csproj|d:\\vsprojects\\quizapp\\applicationcore\\models\\quizitemuseranswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F971AE2-DF13-4347-9115-F271EF2FCB12}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\models\\quizitemuseranswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|d:\\vsprojects\\quizapp\\infrastructure\\mongodb\\entities\\answermongoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\mongodb\\entities\\answermongoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|d:\\vsprojects\\quizapp\\infrastructure\\mongodb\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\mongodb\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|d:\\vsprojects\\quizapp\\infrastructure\\mongodb\\entities\\basemongoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\mongodb\\entities\\basemongoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|d:\\vsprojects\\quizapp\\infrastructure\\mappers\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\mappers\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|d:\\vsprojects\\quizapp\\infrastructure\\ef\\entities\\quizitementity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\ef\\entities\\quizitementity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|d:\\vsprojects\\quizapp\\infrastructure\\ef\\entities\\quizitemanswerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\ef\\entities\\quizitemanswerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|d:\\vsprojects\\quizapp\\infrastructure\\services\\quizuserserviceef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\quizuserserviceef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|d:\\vsprojects\\quizapp\\infrastructure\\ef\\entities\\quizitemuseranswerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\ef\\entities\\quizitemuseranswerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|d:\\vsprojects\\quizapp\\infrastructure\\ef\\entities\\quizentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0600120-9C9F-4FD8-985E-C10ABA15FB3E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\ef\\entities\\quizentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F971AE2-DF13-4347-9115-F271EF2FCB12}|ApplicationCore\\ApplicationCore.csproj|d:\\vsprojects\\quizapp\\applicationcore\\interfaces\\userservice\\iquizuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F971AE2-DF13-4347-9115-F271EF2FCB12}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\interfaces\\userservice\\iquizuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuizApiTest.cs",
+              "DocumentMoniker": "D:\\VSProjects\\QuizApp\\UnitTest\\QuizApiTest.cs",
+              "RelativeDocumentMoniker": "UnitTest\\QuizApiTest.cs",
+              "ToolTip": "D:\\VSProjects\\QuizApp\\UnitTest\\QuizApiTest.cs",
+              "RelativeToolTip": "UnitTest\\QuizApiTest.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA5wCAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:53:44.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuizUserService.cs",
+              "DocumentMoniker": "D:\\VSProjects\\QuizApp\\Infrastructure\\MongoDB\\Entities\\QuizUserService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\MongoDB\\Entities\\QuizUserService.cs",
+              "ToolTip": "D:\\VSProjects\\QuizApp\\Infrastructure\\MongoDB\\Entities\\QuizUserService.cs",
+              "RelativeToolTip": "Infrastructure\\MongoDB\\Entities\\QuizUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:49:11.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuizItemUserAnswer.cs",
+              "DocumentMoniker": "D:\\VSProjects\\QuizApp\\ApplicationCore\\Models\\QuizItemUserAnswer.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Models\\QuizItemUserAnswer.cs",
+              "ToolTip": "D:\\VSProjects\\QuizApp\\ApplicationCore\\Models\\QuizItemUserAnswer.cs",
+              "RelativeToolTip": "ApplicationCore\\Models\\QuizItemUserAnswer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:54:00.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiQuizMongoDBController.cs",
+              "DocumentMoniker": "D:\\VSProjects\\QuizApp\\WebAPI\\Controllers\\ApiQuizMongoDBController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ApiQuizMongoDBController.cs",
+              "ToolTip": "D:\\VSProjects\\QuizApp\\WebAPI\\Controllers\\ApiQuizMongoDBController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ApiQuizMongoDBController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:47:00.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuizMongoEntity.cs",
+              "DocumentMoniker": "D:\\VSProjects\\QuizApp\\Infrastructure\\MongoDB\\Entities\\QuizMongoEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\MongoDB\\Entities\\QuizMongoEntity.cs",
+              "ToolTip": "D:\\VSProjects\\QuizApp\\Infrastructure\\MongoDB\\Entities\\QuizMongoEntity.cs",
+              "RelativeToolTip": "Infrastructure\\MongoDB\\Entities\\QuizMongoEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:49:30.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuizItemMongoEntity.cs",
+              "DocumentMoniker": "D:\\VSProjects\\QuizApp\\Infrastructure\\MongoDB\\Entities\\QuizItemMongoEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\MongoDB\\Entities\\QuizItemMongoEntity.cs",
+              "ToolTip": "D:\\VSProjects\\QuizApp\\Infrastructure\\MongoDB\\Entities\\QuizItemMongoEntity.cs",
+              "RelativeToolTip": "Infrastructure\\MongoDB\\Entities\\QuizItemMongoEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:49:46.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\VSProjects\\QuizApp\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "D:\\VSProjects\\QuizApp\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T22:42:10.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "QuizItemAnswerEntity.cs",
+              "DocumentMoniker": "D:\\VSProjects\\QuizApp\\Infrastructure\\EF\\Entities\\QuizItemAnswerEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EF\\Entities\\QuizItemAnswerEntity.cs",
+              "ToolTip": "D:\\VSProjects\\QuizApp\\Infrastructure\\EF\\Entities\\QuizItemAnswerEntity.cs",
+              "RelativeToolTip": "Infrastructure\\EF\\Entities\\QuizItemAnswerEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:32:22.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AnswerMongoEntity.cs",
+              "DocumentMoniker": "D:\\VSProjects\\QuizApp\\Infrastructure\\MongoDB\\Entities\\AnswerMongoEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\MongoDB\\Entities\\AnswerMongoEntity.cs",
+              "ToolTip": "D:\\VSProjects\\QuizApp\\Infrastructure\\MongoDB\\Entities\\AnswerMongoEntity.cs",
+              "RelativeToolTip": "Infrastructure\\MongoDB\\Entities\\AnswerMongoEntity.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:36:45.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QuizItemEntity.cs",
+              "DocumentMoniker": "D:\\VSProjects\\QuizApp\\Infrastructure\\EF\\Entities\\QuizItemEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EF\\Entities\\QuizItemEntity.cs",
+              "ToolTip": "D:\\VSProjects\\QuizApp\\Infrastructure\\EF\\Entities\\QuizItemEntity.cs",
+              "RelativeToolTip": "Infrastructure\\EF\\Entities\\QuizItemEntity.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwA4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T20:41:57.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MongoDBSettings.cs",
+              "DocumentMoniker": "D:\\VSProjects\\QuizApp\\Infrastructure\\MongoDB\\MongoDBSettings.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\MongoDB\\MongoDBSettings.cs",
+              "ToolTip": "D:\\VSProjects\\QuizApp\\Infrastructure\\MongoDB\\MongoDBSettings.cs",
+              "RelativeToolTip": "Infrastructure\\MongoDB\\MongoDBSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:32:06.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Mapper.cs",
+              "DocumentMoniker": "D:\\VSProjects\\QuizApp\\Infrastructure\\Mappers\\Mapper.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Mappers\\Mapper.cs",
+              "ToolTip": "D:\\VSProjects\\QuizApp\\Infrastructure\\Mappers\\Mapper.cs",
+              "RelativeToolTip": "Infrastructure\\Mappers\\Mapper.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:00:03.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseMongoEntity.cs",
+              "DocumentMoniker": "D:\\VSProjects\\QuizApp\\Infrastructure\\MongoDB\\Entities\\BaseMongoEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\MongoDB\\Entities\\BaseMongoEntity.cs",
+              "ToolTip": "D:\\VSProjects\\QuizApp\\Infrastructure\\MongoDB\\Entities\\BaseMongoEntity.cs",
+              "RelativeToolTip": "Infrastructure\\MongoDB\\Entities\\BaseMongoEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T22:16:45.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QuizUserServiceEF.cs",
+              "DocumentMoniker": "D:\\VSProjects\\QuizApp\\Infrastructure\\Services\\QuizUserServiceEF.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\QuizUserServiceEF.cs",
+              "ToolTip": "D:\\VSProjects\\QuizApp\\Infrastructure\\Services\\QuizUserServiceEF.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\QuizUserServiceEF.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAvwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:06:19.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "QuizItemUserAnswerEntity.cs",
+              "DocumentMoniker": "D:\\VSProjects\\QuizApp\\Infrastructure\\EF\\Entities\\QuizItemUserAnswerEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EF\\Entities\\QuizItemUserAnswerEntity.cs",
+              "ToolTip": "D:\\VSProjects\\QuizApp\\Infrastructure\\EF\\Entities\\QuizItemUserAnswerEntity.cs",
+              "RelativeToolTip": "Infrastructure\\EF\\Entities\\QuizItemUserAnswerEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:15:29.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "QuizEntity.cs",
+              "DocumentMoniker": "D:\\VSProjects\\QuizApp\\Infrastructure\\EF\\Entities\\QuizEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EF\\Entities\\QuizEntity.cs",
+              "ToolTip": "D:\\VSProjects\\QuizApp\\Infrastructure\\EF\\Entities\\QuizEntity.cs",
+              "RelativeToolTip": "Infrastructure\\EF\\Entities\\QuizEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T20:41:56.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IQuizUserService.cs",
+              "DocumentMoniker": "D:\\VSProjects\\QuizApp\\ApplicationCore\\Interfaces\\UserService\\IQuizUserService.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Interfaces\\UserService\\IQuizUserService.cs",
+              "ToolTip": "D:\\VSProjects\\QuizApp\\ApplicationCore\\Interfaces\\UserService\\IQuizUserService.cs",
+              "RelativeToolTip": "ApplicationCore\\Interfaces\\UserService\\IQuizUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:06:11.388Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

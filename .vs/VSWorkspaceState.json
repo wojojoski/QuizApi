@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebAPI",
+    "\\WebAPI\\bin",
+    "\\WebAPI\\bin\\Debug",
+    "\\WebAPI\\bin\\Debug\\net8.0",
+    "\\WebAPI\\bin\\Debug\\net8.0\\it"
+  ],
+  "SelectedNode": "\\WebAPI\\bin\\Debug\\net8.0\\it\\Microsoft.Data.SqlClient.resources.dll",
+  "PreviewInSolutionExplorer": false
+}

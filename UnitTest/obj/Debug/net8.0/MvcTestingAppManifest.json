@@ -1,0 +1,5 @@
+{
+  "ApplicationCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\VSProjects\\QuizApp\\ApplicationCore",
+  "Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\VSProjects\\QuizApp\\Infrastructure",
+  "WebAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\VSProjects\\QuizApp\\WebAPI"
+}
